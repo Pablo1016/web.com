@@ -42,7 +42,7 @@
               placeholder="Usuario" required>
             <input type="password" id="password" name="password" 
               placeholder="Contraseña" required>
-            <input type="submit" value="Ingresar" button="color: blue";>
+            <input type="submit" value="Ingresar">
         </form>
         <img class="decorative-image" src="cafe.JPG"   
          alt="Imagen decorativa">
